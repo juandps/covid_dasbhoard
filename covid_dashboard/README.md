@@ -1,9 +1,3 @@
-# Proyecto Final - PYTHON INTERMEDIO
-
-## Objetivos de aprendizaje
-- Aplicar nuevas habilidades a un problema del mundo real
-- Sintetizar las técnicas aprendidas
-
 ## Herramientas
 - git
 - github (utilizar gitignore para proyectos python)
